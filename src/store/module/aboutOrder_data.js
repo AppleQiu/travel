@@ -108,10 +108,10 @@ const finishPay = [
         "shouldPay": 1350,
         "relateForm":{
             "joinForm":[{
-                j_name: 'xxx',
-                j_phone: 'xxx',
-                j_address: 'xxx',
-                j_reative: '爸爸'
+                "j_name": 'xxx',
+                "j_phone": 'xxx',
+                "j_address": 'xxx',
+                "j_reative": '爸爸'
             }]
         }
     }
